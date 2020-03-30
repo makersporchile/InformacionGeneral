@@ -1,7 +1,9 @@
 # InformacionGeneral
 
 Favor Leer 
-Información general
+
+
+
 Formulario registro e inscripción para makers
 https://forms.gle/c7rbgxhdXeZo4CEp6
 
@@ -28,6 +30,7 @@ tg://join/?invite=PHPXvRtj2i0OlyN66VzahQ
 
 Grupo VI Region
 tg://join/?invite=PHPXvRtj2i0OlyN66VzahQ
+
 Grupo VIII Región
 tg://join/?invite=PHPXvRz9LeEzdBznF0sXRQ
 
